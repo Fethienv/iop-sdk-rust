@@ -53,19 +53,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "aliexp"
-version = "0.0.1"
-dependencies = [
- "digest",
- "dotenv-vault",
- "hmac",
- "itertools",
- "md-5",
- "reqwest",
- "tokio",
-]
-
-[[package]]
 name = "autocfg"
 version = "1.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -512,6 +499,19 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a0c10553d664a4d0bcff9f4215d0aac67a639cc68ef660840afe309b807bc9f5"
 dependencies = [
  "generic-array",
+]
+
+[[package]]
+name = "iop-sdk-rust"
+version = "0.0.1"
+dependencies = [
+ "digest",
+ "dotenv-vault",
+ "hmac",
+ "itertools",
+ "md-5",
+ "reqwest",
+ "tokio",
 ]
 
 [[package]]
