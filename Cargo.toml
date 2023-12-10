@@ -7,6 +7,8 @@ description = "Unofficial Rust AliExpress Open platform SDK (iop-sdk-rust-202312
 readme = "README.md"
 license = "MIT"
 repository = "https://github.com/Fethienv/iop-sdk-rust.git"
+homepage = "https://github.com/Fethienv/iop-sdk-rust.git"
+documentation = "https://docs.rs/iop-sdk-rust"
 
 exclude = [
     ".env",
