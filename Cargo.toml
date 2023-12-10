@@ -6,7 +6,7 @@ authors = ["BEN ABDELHAMID Fethi"]
 description = "Unofficial Rust AliExpress Open platform SDK (iop-sdk-rust-20231210)"
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/Fethienv/cargo/"
+repository = "https://github.com/Fethienv/iop-sdk-rust.git"
 
 exclude = [
     ".env",
