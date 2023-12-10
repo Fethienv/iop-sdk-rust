@@ -4,7 +4,7 @@ Unofficial Rust AliExpress Open platform SDK (iop-sdk-rust)
 
 ## Example:
 
-```
+```rust
 
 use dotenv_vault::dotenv;
 use reqwest::Result;
