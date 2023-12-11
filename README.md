@@ -6,11 +6,9 @@ Unofficial Rust AliExpress Open platform SDK (iop-sdk-rust)
 
 ```rust
 
+use std::collections::HashMap;
 use dotenv_vault::dotenv;
 use reqwest::Result;
-use std::collections::HashMap;
-
-mod iop;
 use iop::{Iop, ApiName, RequestParameters};
 
 
@@ -38,3 +36,8 @@ async fn main() -> Result<()> {
 }
 
 ```
+
+## TODO:
+- add All Apis
+- Add more http methods
+- add sha256 sign method
