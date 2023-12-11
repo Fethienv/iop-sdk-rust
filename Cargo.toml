@@ -1,6 +1,6 @@
 [package]
 name = "iop-sdk-rust"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2021"
 authors = ["BEN ABDELHAMID Fethi"]
 description = "Unofficial Rust AliExpress Open platform SDK (iop-sdk-rust-20231210)"
