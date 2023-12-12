@@ -35,3 +35,8 @@ async fn main() -> Result<()> {
 }
 
 ```
+
+## TODO:
+- add All Apis
+- Add more http methods
+- add sha256 sign method
