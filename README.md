@@ -5,12 +5,9 @@ Unofficial Rust AliExpress Open platform SDK (iop-sdk-rust)
 ## Example:
 
 ```rust
-
+use std::collections::HashMap;
 use dotenv_vault::dotenv;
 use reqwest::Result;
-use std::collections::HashMap;
-
-mod iop;
 use iop::{Iop, ApiName, RequestParameters};
 
 
